@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MeaiAgent/MeaiAgent.csproj" />
+  <Project Path="ToolRunnerAgent/ToolRunnerAgent.csproj" />
+</Solution>
